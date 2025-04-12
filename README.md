@@ -4,14 +4,14 @@ A powerful, terminal-based **Multifunction Calculator** written in C that offers
 
 ---
 
-## ⚙️ How to Compile and Run
+## How to Compile and Run
 
-### 🔧 Compilation
+### Compilation
 ```bash
 gcc calci.c -o calci -lm
 ```
 
-### ▶️ Run
+### Run
 ```bash
 ./calci
 ```
@@ -60,20 +60,20 @@ gcc calci.c -o calci -lm
 
 ```
 Calci-31/
-├── calci.c       # Main source code
+├── LICENSE       # MIT or any other license you prefer
 ├── README.md     # You're reading it
-└── LICENSE       # MIT or any other license you prefer
+└── calci.c       # Main source code
 ```
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
-## ✍️ Author
+## Author
 
 Made with 💻 in C  
 By Kunal Chandak 
