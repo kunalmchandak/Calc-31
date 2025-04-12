@@ -18,7 +18,7 @@ gcc calci.c -o calci -lm
 
 ---
 
-## Features List (All 32 Options)
+## Features List
 
 | Option | Feature Description                                 |
 |--------|-----------------------------------------------------|
